@@ -3,7 +3,7 @@
   'author': 'Ibnu Nur Khawarizmi',
   'version': '0.1',
   'depends': [
-    'sale',
+    'product',
   ],
   'data': [
     'views/views.xml',
@@ -15,7 +15,7 @@
   'auto_install': False,
   'installable': True,
   'application': True,
-  'category': 'Sale',
+  'category': 'Warehouse',
   'summary': 'Add Specification on product notebook',
   'license': 'OPL-1',
   'website': 'https://www.github.com/ibnukhawa',
